@@ -1,0 +1,8 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="16" fill="#FF7E2C"/>
+  <path d="M32 14L16 26V48C16 49.1046 16.8954 50 18 50H46C47.1046 50 48 49.1046 48 48V26L32 14Z" fill="white" fill-opacity="0.2"/>
+  <path d="M32 18L18 29.5V46H46V29.5L32 18Z" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 46V35C26 33.3431 27.3431 32 29 32H35C36.6569 32 38 33.3431 38 35V46" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="25" r="2.5" fill="white"/>
+  <text x="76" y="40" font-family="Inter, sans-serif" font-weight="800" font-size="24" fill="#111827" letter-spacing="-0.5">Ai Interior</text>
+</svg>
