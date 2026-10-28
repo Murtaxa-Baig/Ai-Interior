@@ -23,7 +23,8 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "AppNaya Technologies", url: "http://www.appnayatech.com/" }],
   icons: {
-    icon: "/images/logo-icon.svg",
+    icon: "/favicon.ico",
+    apple: "/images/logo.png",
   },
 };
 

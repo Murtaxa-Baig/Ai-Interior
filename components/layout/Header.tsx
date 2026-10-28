@@ -51,7 +51,7 @@ export const Header: React.FC = () => {
           <div className="flex items-center gap-2.5 min-w-0">
             <Link href="/" className="flex items-center gap-2.5 group">
               <Image
-                src="/images/logo-icon.svg"
+                src="/images/logo.png"
                 alt="Ai Interior Logo"
                 width={36}
                 height={36}

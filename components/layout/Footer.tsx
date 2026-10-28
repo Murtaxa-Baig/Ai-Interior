@@ -11,7 +11,7 @@ export const Footer: React.FC = () => {
           <div>
             <div className="flex items-center gap-2.5 mb-4">
               <Image
-                src="/images/logo-icon.svg"
+                src="/images/logo.png"
                 alt="Ai Interior Logo"
                 width={36}
                 height={36}
